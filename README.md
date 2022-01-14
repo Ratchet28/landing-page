@@ -5,3 +5,5 @@ After finishing the last lesson, it feels like some of the HTML & CSS is staring
 
 Did the hmtl today, will have to see if i missed anything in there once I start css.
 Feel like i have a pretty good understanding of html at this point.
+
+Finished the project i think?? Alot of the basics are starting to become alot easier which is great! Happy with my progress!
